@@ -1,0 +1,12 @@
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\bin\Debug\net7.0\StudingGitHubTest.deps.json
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\bin\Debug\net7.0\StudingGitHubTest.dll
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\bin\Debug\net7.0\StudingGitHubTest.pdb
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\StudingGitHubTest.csproj.AssemblyReference.cache
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\StudingGitHubTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\StudingGitHubTest.AssemblyInfoInputs.cache
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\StudingGitHubTest.AssemblyInfo.cs
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\StudingGitHubTest.csproj.CoreCompileInputs.cache
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\StudingGitHubTest.dll
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\refint\StudingGitHubTest.dll
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\StudingGitHubTest.pdb
+C:\Users\Nedifar\source\repos\StudingGitHubTest\StudingGitHubTest\obj\Debug\net7.0\ref\StudingGitHubTest.dll
