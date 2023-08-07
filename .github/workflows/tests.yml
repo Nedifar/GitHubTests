@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        dotnet-version: [ '3.1.x', '7.0.x' ]
+        dotnet-version: [ '7.0.x' ]
 
     steps:
     - uses: actions/checkout@v3
@@ -29,8 +29,3 @@ jobs:
         path: TestResults-${{ matrix.dotnet-version }}
       # Use always() to always run this step to publish test results when there are test failures
       if: ${{ always() }}
-    - name: Download artifact A
-      uses: ./
-      with:
-        name: 'Upload dotnet test results'
-        path: some/new/path
