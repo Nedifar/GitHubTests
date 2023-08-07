@@ -14,5 +14,15 @@ namespace TestProject1
 
             Assert.IsTrue(b);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            TestClass testClass = new();
+
+            bool b = testClass.GetTrue();
+
+            Assert.IsTrue(b);
+        }
     }
 }
